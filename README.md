@@ -62,4 +62,4 @@ The main datasets have been extracted from ourworldindata.org | gbif.org | biodi
 This analysis was mainly focused to give a general view of the causes that impact our biodiversity and trying to raise people awarness. The main goal was to predict using ARIMA method when the biodiversity index would hit the 0.5 and was forcast in between the year 2132 & 2133.
 
 # This project has a visualization on Tableau Public on the following link:
- **https://public.tableau.com/app/profile/giacomo.rossini/viz/PROJECT2_17025013200780/FINAL_dashboard?publish=yes
+ https://public.tableau.com/app/profile/giacomo.rossini/viz/PROJECT2_17025013200780/FINAL_dashboard?publish=yes
