@@ -4,7 +4,7 @@
 By definition Biodiversity is the variety of plant and animal life in the world or in a particular habitat, a high level of which is usually considered to be important and desirable.
 This project aims to understand some macro-environmental factors that impacted the biodiversity and predict in which year the index will reach the critical value of 50%. 
 
-To do so, we are going to analyse various datasets related to environment. It is important to highlight that many factors have contributed in the past to impact the level of biodiversity, some of this factors are directly caused by Human beahviour and other are non-controlable. 
+To do so, we are going to analyse various datasets related to environment. It is important to highlight that many factors have contributed in the past to impact the level of biodiversity, some of this factors are directly caused by Human behaviour and other are uncontrollable. 
 The primary objective is to gain insights into trends, patterns, and contributions of what impact this index and collect data regading territory, global temperature, macro-analysis of resources used that cannot explain the overall situation but are highly correlated with the topic and are extremely close to justify some trend. Said so, countless factors have contributed to reach this point.  
 
 ## Data Sources
